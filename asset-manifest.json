@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-music-player-with-darkomde/static/css/main.da83e2a9.chunk.css",
+    "main.js": "/react-music-player-with-darkomde/static/js/main.e85240e6.chunk.js",
+    "main.js.map": "/react-music-player-with-darkomde/static/js/main.e85240e6.chunk.js.map",
+    "runtime-main.js": "/react-music-player-with-darkomde/static/js/runtime-main.7cb03697.js",
+    "runtime-main.js.map": "/react-music-player-with-darkomde/static/js/runtime-main.7cb03697.js.map",
+    "static/css/2.6ef2fac9.chunk.css": "/react-music-player-with-darkomde/static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.e3aa039d.chunk.js": "/react-music-player-with-darkomde/static/js/2.e3aa039d.chunk.js",
+    "static/js/2.e3aa039d.chunk.js.map": "/react-music-player-with-darkomde/static/js/2.e3aa039d.chunk.js.map",
+    "static/js/3.20ea9d5b.chunk.js": "/react-music-player-with-darkomde/static/js/3.20ea9d5b.chunk.js",
+    "static/js/3.20ea9d5b.chunk.js.map": "/react-music-player-with-darkomde/static/js/3.20ea9d5b.chunk.js.map",
+    "index.html": "/react-music-player-with-darkomde/index.html",
+    "static/css/2.6ef2fac9.chunk.css.map": "/react-music-player-with-darkomde/static/css/2.6ef2fac9.chunk.css.map",
+    "static/css/main.da83e2a9.chunk.css.map": "/react-music-player-with-darkomde/static/css/main.da83e2a9.chunk.css.map",
+    "static/js/2.e3aa039d.chunk.js.LICENSE.txt": "/react-music-player-with-darkomde/static/js/2.e3aa039d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cb03697.js",
+    "static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.e3aa039d.chunk.js",
+    "static/css/main.da83e2a9.chunk.css",
+    "static/js/main.e85240e6.chunk.js"
+  ]
+}
